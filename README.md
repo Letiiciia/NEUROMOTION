@@ -26,7 +26,7 @@ NeuroMotion é uma plataforma experimental que capta e interpreta movimentos cor
 - **Librosa** (análise de áudio e ritmo)
 
 ## 📁 Estrutura
-´´´
+´´´´
 neuro-motion/
 │
 ├── frontend/ # Interface React
@@ -34,7 +34,7 @@ neuro-motion/
 ├── ai-models/ # Modelos de IA
 ├── docs/ # Documentação e diário do projeto
 └── README.md
-´´´
+´´´´
 
 ## 📚 Referências futuras
 
